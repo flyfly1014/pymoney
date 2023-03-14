@@ -1,0 +1,5 @@
+1000
+meal breakfast -50
+drink coffee -100
+meal lunch -120
+salary part-time 1200
